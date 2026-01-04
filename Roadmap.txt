@@ -1,0 +1,3 @@
+Tujuan di 2026
+- Memahami lebih dalam tentang HTML, CSS, dan JavaScript
+- Memahami bahasa Python
